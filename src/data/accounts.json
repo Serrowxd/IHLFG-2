@@ -1,0 +1,54 @@
+{
+  "Serrow": {
+    "uname": "Serrow",
+    "pfp": "{link}",
+    "bkgimg": "{link}",
+    "title": "{title}",
+    "spec": "{spec}",
+    "ilvl": "{ilvl}",
+    "main": "{boolean}",
+    "hk": "{honorable}",
+    "guild": "{guild}",
+    "realm": "{realm}",
+    "cr": "{current}",
+    "bestcr": "{best}",
+    "ratings": {
+      "twos": {
+        "s1": "{rating}",
+        "s2": "{rating}",
+        "s3": "{rating}",
+        "s4": "{rating}"
+      },
+      "threes": {
+        "s1": "{rating}",
+        "s2": "{rating}",
+        "s3": "{rating}",
+        "s4": "{rating}"
+      },
+      "rbgs": {
+        "s1": "{rating}",
+        "s2": "{rating}",
+        "s3": "{rating}",
+        "s4": "{rating}"
+      }
+    },
+    "gear": {
+      "head": "{gear}",
+      "neck": "{gear}",
+      "shoulders": "{gear}",
+      "cloak": "{gear}",
+      "chest": "{gear}",
+      "shirt": "{gear}",
+      "tab": "{gear}",
+      "wrists": "{gear}",
+      "hands": "{gear}",
+      "waist": "{gear}",
+      "legs": "{gear}",
+      "feet": "{gear}",
+      "ring1": "{gear}",
+      "ring2": "{gear}",
+      "trinket1": "{gear}",
+      "trinket2": "{gear}"
+    }
+  }
+}

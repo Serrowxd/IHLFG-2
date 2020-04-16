@@ -1,0 +1,17 @@
+{
+  "kjol": {
+    "username": "kjol",
+    "password": "pass",
+    "uname": "Serrow",
+    "rname": "Kevin",
+    "fname": "Kevin Jolley"
+  },
+
+  "jcoop": {
+    "username": "jcoop",
+    "password": "notpass",
+    "uname": "Autoimmune",
+    "rname": "Jared",
+    "fname": "Jared Cooper"
+  }
+}
