@@ -1,11 +1,12 @@
 import React, { useState } from 'react';
+import { Nav } from '../shared/shareReduce';
 
 function Dashboard(props) {
   const [user, setUser] = useState({});
 
   return (
-    <div>
-      <h1> Henlo (OvO") </h1>
+    <div className="dashboard-wrapper">
+      <Nav />
     </div>
   );
 }

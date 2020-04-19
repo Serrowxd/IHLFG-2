@@ -10,9 +10,7 @@ import './styles/css/styles.css';
 
 const Routes = (
   <Router>
-    <div>
-      <Route path="/" component={App} />
-    </div>
+    <Route path="/" component={App} />
   </Router>
 );
 
